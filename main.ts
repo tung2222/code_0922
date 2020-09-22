@@ -1,4 +1,3 @@
-basic.showNumber(6)
 basic.forever(function () {
-	
+    basic.showNumber(6)
 })
